@@ -11,7 +11,7 @@ Je travaille sur **WordPress depuis 2014**. Au fil des années, je suis passé d
 - **Hébergement et infrastructure** : VPS Linux, NAS, conteneurs Docker, reverse proxy et tunnels, sauvegardes, supervision et alertes
 - **Outils auto-hébergés** : cloud de fichiers et suite bureautique, ERP/CRM open source, sites WordPress de production
 - **Gestion d'entreprise** : mise en place d'ERP/CRM open source, facturation électronique (Factur-X, plateforme agréée)
-- **Vidéo** : montage et traitement vidéo, automatisation des conversions avec FFmpeg
+- **Vidéo** : montage sur **Final Cut Pro depuis 2013**, traitement et automatisation des conversions avec FFmpeg
 
 ## Projets publics
 
@@ -26,7 +26,7 @@ Les projets réalisés pour des entreprises restent privés ; certains sont pré
 
 ## Outils du quotidien
 
-`WordPress` `WooCommerce` `PHP` `JavaScript` `TypeScript` `React` `Electron` `Python` `Ionic` `Docker` `Linux` `Git` `FFmpeg`
+`WordPress` `WooCommerce` `PHP` `JavaScript` `TypeScript` `React` `Electron` `Python` `Ionic` `Docker` `Linux` `Git` `FFmpeg` `Final Cut Pro`
 
 ## Contact
 
