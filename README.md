@@ -2,10 +2,11 @@
 
 **Chef de projet multimédia** de formation, je conçois, développe et héberge moi-même des outils numériques pour de petites entreprises, du serveur jusqu'à l'interface.
 
-Je travaille sur **WordPress depuis 2014**. Au fil des années, je suis passé du site web à l'ensemble de la chaîne : applications, hébergement, outils de gestion, vidéo. J'aime avoir une vision globale d'un projet et pouvoir le mener de bout en bout, en autonomie.
+Je travaille sur **WordPress depuis 2014**. Au fil des années, je suis passé du site web à l'ensemble de la chaîne : identité visuelle, applications, hébergement, outils de gestion, vidéo. J'aime avoir une vision globale d'un projet et pouvoir le mener de bout en bout, en autonomie.
 
 ## Ce que je fais
 
+- **Identité visuelle** : conception de logos et rédaction de chartes graphiques complètes pour des entreprises en France et à l'international depuis 2022 (par exemple [shandongtk.com](https://shandongtk.com))
 - **WordPress et WooCommerce** : thèmes, plugins sur mesure, réservation et paiement en ligne, SEO, migrations de sites
 - **Applications** : apps macOS (Electron / TypeScript, Python / PyQt), applications mobiles Ionic
 - **Hébergement et infrastructure** : VPS Linux, NAS, conteneurs Docker, reverse proxy et tunnels, sauvegardes, supervision et alertes
