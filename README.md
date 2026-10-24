@@ -6,7 +6,7 @@ Je travaille sur **WordPress depuis 2014**. Au fil des années, je suis passé d
 
 ## Ce que je fais
 
-- **Création graphique et identité visuelle** depuis 2017 : logos et chartes graphiques complètes pour des entreprises en France et à l'international (par exemple [shandongtk.com](https://shandongtk.com))
+- **Création graphique et identité visuelle** depuis 2017 : logos et chartes graphiques complètes pour des entreprises en France et à l'international — la plus récente : [shandongtk.com](https://shandongtk.com)
 - **WordPress et WooCommerce** : thèmes, plugins sur mesure, réservation et paiement en ligne, SEO, migrations de sites
 - **Applications** : apps macOS (Electron / TypeScript, Python / PyQt), applications mobiles Ionic
 - **Hébergement et infrastructure** : VPS Linux, NAS, conteneurs Docker, reverse proxy et tunnels, sauvegardes, supervision et alertes
