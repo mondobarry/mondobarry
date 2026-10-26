@@ -6,6 +6,8 @@
 
 Je travaille sur **WordPress depuis 2014**. Au fil des années, je suis passé du site web à l'ensemble de la chaîne : identité visuelle, applications, hébergement, outils de gestion, vidéo. J'aime avoir une vision globale d'un projet et pouvoir le mener de bout en bout, en autonomie.
 
+**Ma société : [JAMTOLY Web](https://www.jamtoly.com/jamtoly-web/)** (JAMTOLY SAS, depuis 2024) — applications web métier, ERP/CRM boostés à l'IA, SEO et visibilité IA, hébergement, facturation électronique.
+
 **Disponible pour des missions freelance** — à distance partout, sur site en Île-de-France, et ouvert aux projets à **Hong Kong et en Chine continentale**. Langues de travail : français et anglais.
 
 ## Ce que je fais

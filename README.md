@@ -6,6 +6,8 @@
 
 I have been working with **WordPress since 2014**. Over the years I moved from websites to the whole chain: brand identity, applications, hosting, business tools, video. I like having the big picture of a project and being able to run it from end to end, on my own.
 
+**My company: [JAMTOLY Web](https://www.jamtoly.com/jamtoly-web/)** (JAMTOLY SAS, France, since 2024) — custom business web apps, AI-powered ERP/CRM, SEO and AI visibility, hosting, e-invoicing.
+
 **Open to freelance missions** — remote worldwide, on site in the Paris area, and open to projects in **Hong Kong and mainland China**. Working languages: French and English.
 
 ## What I do
